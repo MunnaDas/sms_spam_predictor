@@ -197,18 +197,6 @@ source .venv/bin/activate    # or .venv\Scripts\activate on Windows
 pip install -r requirements.txt
 ```
 
-### Run tests (if applicable)
-
-```bash
-pytest -v
-```
-
----
-
-## 🧾 License
-
-This project is licensed under the **MIT License** — feel free to modify and distribute.
-
 ---
 
 ## 🏁 Summary
